@@ -1,4 +1,5 @@
 ## Установка.
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/berpcor/RBAC?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 > Перед установкой RBAC необходимо, чтобы была реализована система авторизации/регистрации (средствами Laravel) и имелась таблица Users (в package используется User - модель из коробки).
 
